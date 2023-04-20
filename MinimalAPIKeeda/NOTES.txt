@@ -1,0 +1,5 @@
+111.ASP.NET CORE Tutorial For Beginners 111: Getting Started with
+- Create a new Minimal Web Api Project with unselection of Use controllers(uncheack to use minimal APIs). Minimal API is used if we want only displaying data only.
+- Using InMemoryDataBase in it.
+- Create Models Folder with Product Model then add DbContext in Model with register in program.cs. Install Microsoft.EntityFrameworkCore.InMemory Package
+- Write Product Post Code in Program.cs file. and Create a productItems Post method on it now run project and call this method using swagger UI. now Post Successfully.
